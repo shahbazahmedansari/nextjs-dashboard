@@ -2,7 +2,7 @@ import { Metadata } from "next";
 import AcmeLogo from "../ui/acme-logo";
 import LoginForm from "../ui/login-form";
 
-export const metaData: Metadata = {
+export const metadata: Metadata = {
   title: "Login",
 };
 

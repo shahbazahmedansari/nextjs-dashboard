@@ -4,7 +4,7 @@ import EditInvoiceForm from "@/app/ui/invoices/edit-form";
 import { Metadata } from "next";
 import { notFound } from "next/navigation";
 
-export const metaData: Metadata = {
+export const metadata: Metadata = {
   title: "Edit Invoices",
 };
 
